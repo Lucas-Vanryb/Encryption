@@ -1,0 +1,14 @@
+Mode d'emploi :
+
+ATTENTION : TOUS LES FICHIERS TEXTES A CODER/DECODER OU A ANALYSER FREQUENTIELLEMENT DOIVENT ETRE EN ISO8859-1 OU NE PAS CONTENIR D'ACCENTS !!!!!!!
+
+De même, les textes en 'sortie' doivent etre lus en ISO8859-1
+
+		I. Compression universelle
+		
+	-> Ajouter les texte pour lecture de frequence un par un à l'aide des méthodes static ajouterTexteStream (pour lire dans un fichier txt) et ajouterTexteString (pour lire dans une String transmise en param) de CompressionUniverselle.
+	-> Encoder ou decoder à l'aide des méthodes de CompressionUniverselle (toutes les combinaisons String/Stream sont possibles)
+	
+		II. Compression adaptative
+		
+	-> Encoder ou decoder à l'aide des méthodes de Compression (toutes les combinaisons String/Stream sont disponibles)
